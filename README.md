@@ -1,2 +1,2 @@
 # Ms-Project---Project-Management---Academic-Project
-O trabalho prático consiste em elaborar e apresentar um projeto com o respetivo planeamento, sendo o âmbito do projeto, obrigatoriamente, a implementação de algum tipo de infraestrutura tecnológica (hardware, software, tecnologias de armazenamento de dados, tecnologias de rede e telecomunicações) ou o desenvolvimento de uma aplicação/sistema.
+The practical work consists of preparing and presenting a project with the respective planning, with the scope of the project necessarily being the implementation of some type of technological infrastructure (hardware, software, data storage technologies, network and telecommunications technologies) or the development of an application/system.
